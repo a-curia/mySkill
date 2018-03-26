@@ -65,6 +65,7 @@
 		</plugins>
 	</build>
 
+	<!-- test working jenkins -->
 	<distributionManagement>
 		<snapshotRepository>
 			<id>snapshots</id>
