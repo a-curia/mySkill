@@ -1,4 +1,4 @@
-package com.dbbyte.myskill.ontroller;
+package com.dbbyte.myskill.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
